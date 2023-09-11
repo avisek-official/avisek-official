@@ -4,7 +4,7 @@ I'm a passionate Frontend Developer with over half a decade of experience in Rea
 
 ## About Me
 
-- 💼 I have over 5 years of experience in the field of web development.
+- 💼 I have over 6 years of experience in the field of web development.
 - 🌱 I'm always learning and staying up-to-date with the latest web development trends.
 - 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/avisek-kar/).
 
@@ -12,7 +12,7 @@ I'm a passionate Frontend Developer with over half a decade of experience in Rea
 
 Here are some of the technologies I work with:
 
-- **Frontend**: React.js, TypeScript, Tailwind CSS
+- **Frontend**: React.js, TypeScript, Tailwind CSS, Bootstrap, Chart.js
 - **Backend**: PHP
 - **Databases**: MongoDB, MySQL
 - **Server-Side Rendering**: Next.js
